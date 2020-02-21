@@ -1,6 +1,29 @@
-$("document").ready (function){
-$(".design,#design").click(function(){
-  $("#design").slidetoggle();
-  $(".design").slidetoggle();
+$(document).ready(function(){
+$(".A").hover(function(){
+  $(".Jimmy").toggle()
 });
+});
+$(".A").hover(function(){
+  $(".Jimmy").toggle()
+});
+$(".B").hover(function(){
+  $(".yellow").toggle()
+});
+$(".C").hover(function(){
+  $(".Mighty").toggle()
+});
+$(".D").hover(function(){
+  $(".BlackDark").toggle()
+});
+$(".E").hover(function(){
+  $(".Happy").toggle()
+});
+$(".F").hover(function(){
+  $(".Settings").toggle()
+});
+$(".G").hover(function(){
+  $(".Burnt").toggle()
+});
+$(".F").hover(function(){
+  $(".Giraffe").toggle()
 });
