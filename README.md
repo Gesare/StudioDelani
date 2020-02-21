@@ -11,7 +11,15 @@ Delani Studio is a studio that provides Software related services and also gives
 * Search and open the webpage in Google search engine using the above URL link
 * Internet Connection 
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+To fix a bug or enhance an existing module, follow these steps:
+
+* Fork the repo
+* Create a new branch (git checkout -b improve-feature)
+* Make the appropriate changes in the filesClone this repo to your dClone this repo to your desktop and run npm install to install all the dependencies.
+* Add changes to reflect the changes made
+* Commit your changes (git commit -am 'Improve feature')
+* Push to the branch (git push origin improve-feature)
+* Create a Pull Request
 ## Technologies Used
 * HTML
 * CSS
