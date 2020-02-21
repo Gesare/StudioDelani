@@ -32,4 +32,5 @@ $(".pm,#pm").click(function(){
 $(".dev,#dev").click(function(){
   $("#dev,.dev").fadeToggle()
 });
+$("button")
 });
