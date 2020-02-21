@@ -1,6 +1,7 @@
 # StudioDelani
 Delani studio is a web page that i recreated for week 3's Independent project.
 ## By **Gesare Ombati**
+# The link to the live page is :
 ## Description
 This is a webpage that i recreated as an Independent Project that was used to practice my skills in HTML,CSS and Js.
 Delani Studio is a studio that provides Software related services and also gives you an opportunity to comment or leave a message for them. the  team of qualified software engineers working on it develop and design high quality software, web and mobile applications. 
