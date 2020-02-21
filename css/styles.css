@@ -34,15 +34,28 @@ body{
 .container{
   text-align: center;
 }
-.contact{
-    background-image: url(/home/gesare/Documents/StudioDelani/assets/backgrounds/c_img.jpg);
+.jumbotron{
+  color: white;
+      background-image: url(/home/gesare/Documents/StudioDelani/assets/backgrounds/c_image.jpg);
 }
 .col-md-3{
   padding-bottom: 20px;
 }
-footer{
+#social{
   text-align: center;
 }
 #design{
   display: none;
+}
+input[type=text]{
+  background-color: transparent;
+}
+.name{
+  color: white;
+  width: 300px;
+}
+.message{
+  padding-bottom: 120px;
+  height:150px;
+  width:500px;
 }
