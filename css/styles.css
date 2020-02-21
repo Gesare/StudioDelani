@@ -34,3 +34,15 @@ body{
 .container{
   text-align: center;
 }
+.contact{
+    background-image: url(/home/gesare/Documents/StudioDelani/assets/backgrounds/c_img.jpg);
+}
+.col-md-3{
+  padding-bottom: 20px;
+}
+footer{
+  text-align: center;
+}
+.col-md-4 p{
+  display: none;
+}
