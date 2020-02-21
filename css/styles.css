@@ -61,5 +61,36 @@ input[type=text]{
 }
 .Jimmy{
   display: none;
+  background-color: white;
+  color: black;
+}
+.yellow{
+  display: none;
+  background-color: white;
+  color: black;
+}
+.Mighty{
+  display: none;
+  background-color: white;
+  color: inherit;black;
+}
+.BlackDark{
+  display: none;
+  background-color: grey;
+}
+.Happy{
+  display: none;
+  background-color: blue;
+}
+.Setting{
+  display: none;
   background-color: black;
+}
+.Burned{
+  display: none;
+  background-color: yellow;
+}
+.Giraffe{
+  display: none;
+  background-color: grey;zaaza1
 }

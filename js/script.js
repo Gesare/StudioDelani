@@ -2,10 +2,6 @@ $(document).ready(function(){
 $(".A").hover(function(){
   $(".Jimmy").toggle()
 });
-});
-$(".A").hover(function(){
-  $(".Jimmy").toggle()
-});
 $(".B").hover(function(){
   $(".yellow").toggle()
 });
@@ -22,8 +18,9 @@ $(".F").hover(function(){
   $(".Settings").toggle()
 });
 $(".G").hover(function(){
-  $(".Burnt").toggle()
+  $(".Burned").toggle()
 });
-$(".F").hover(function(){
+$(".H").hover(function(){
   $(".Giraffe").toggle()
+});
 });
