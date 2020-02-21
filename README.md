@@ -2,7 +2,8 @@
 Delani studio is a web page that i recreated for week 3's Independent project.
 ## By **Gesare Ombati**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This is a webpage that was recreated as an Independent Project that was used to practice my skills in HTML,CSS and Js.
+Delani Studio is a studio that provides Software related services and also gives you an opportunity to comment or leave a message for them. the  team of qualified software engineers working on it develop and design high quality software, web and mobile applications. 
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
