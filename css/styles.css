@@ -46,6 +46,12 @@ body{
 #design{
   display: none;
 }
+#dev{
+  display: none;
+}
+#pm{
+  display: none;
+}
 input[type=text]{
   background-color: transparent;
 }
@@ -68,7 +74,7 @@ input[type=text]{
   background-color: white;
   color: black;
 }
-.Mighty{
+.Mig{
   display: none;
   background-color: white;
   color:black;

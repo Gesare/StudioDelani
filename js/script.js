@@ -6,7 +6,7 @@ $(".B").hover(function(){
   $(".yellow").slideToggle()
 });
 $(".C").hover(function(){
-  $(".Mighty").slidetoggle()
+  $(".Mig").slideToggle()
 });
 $(".D").hover(function(){
   $(".BlackDark").slideToggle()
@@ -25,5 +25,11 @@ $(".H").hover(function(){
 });
 $(".design,#design").click(function(){
   $("#design,.design").fadeToggle()
+});
+$(".pm,#pm").click(function(){
+  $("#pm,.pm").fadeToggle()
+});
+$(".dev,#dev").click(function(){
+  $("#dev,.dev").fadeToggle()
 });
 });
