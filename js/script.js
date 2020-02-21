@@ -32,5 +32,10 @@ $(".pm,#pm").click(function(){
 $(".dev,#dev").click(function(){
   $("#dev,.dev").fadeToggle()
 });
-$("button")
+$("form.submit").click(function(){
+  var name=$(".name").val ()
+  var email=$(".email").val()
+  var message=$(".class").val()
+  alert("Hi"+name"your message has been recieved . Thank you")
+});
 });
