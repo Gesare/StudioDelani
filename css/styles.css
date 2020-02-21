@@ -72,25 +72,30 @@ input[type=text]{
 .Mighty{
   display: none;
   background-color: white;
-  color: inherit;black;
+  color:black;
 }
 .BlackDark{
   display: none;
-  background-color: grey;
+  background-color: white;
+  color:black;
 }
 .Happy{
   display: none;
-  background-color: blue;
+  background-color: white;
+  color: black
 }
 .Setting{
   display: none;
-  background-color: black;
+  background-color: white;
+  color: black
 }
 .Burned{
   display: none;
-  background-color: yellow;
+  background-color: white;
+  color:black;
 }
 .Giraffe{
   display: none;
-  background-color: grey;zaaza1
+  background-color: white;
+  color: black;
 }
