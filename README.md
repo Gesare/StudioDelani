@@ -18,7 +18,7 @@ Delani Studio is a studio that provides Software related services and also gives
 * J Script
 * Bootstrap
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+If you may need more information please contact the me through Gesare@gmail.com.
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {year} **{List of contributors or company name}**
