@@ -1,26 +1,29 @@
 $(document).ready(function(){
 $(".A").hover(function(){
-  $(".Jimmy").toggle()
+  $(".Jimmy").slideToggle()
 });
 $(".B").hover(function(){
-  $(".yellow").toggle()
+  $(".yellow").slideToggle()
 });
 $(".C").hover(function(){
-  $(".Mighty").toggle()
+  $(".Mighty").slidetoggle()
 });
 $(".D").hover(function(){
-  $(".BlackDark").toggle()
+  $(".BlackDark").slideToggle()
 });
 $(".E").hover(function(){
-  $(".Happy").toggle()
+  $(".Happy").fadeToggle()
 });
 $(".F").hover(function(){
-  $(".Settings").toggle()
+  $(".Settings").fadeToggle()
 });
 $(".G").hover(function(){
-  $(".Burned").toggle()
+  $(".Burned").fadeToggle()
 });
 $(".H").hover(function(){
-  $(".Giraffe").toggle()
+  $(".Giraffe").fadeToggle()
+});
+$(".design,#design").click(function(){
+  $("#design,.design").fadeToggle()
 });
 });

@@ -1,5 +1,4 @@
 
-}
 body{
   font-family:inherit;
   margin: 0;
@@ -84,7 +83,7 @@ input[type=text]{
   background-color: white;
   color: black
 }
-.Setting{
+.Settings{
   display: none;
   background-color: white;
   color: black
