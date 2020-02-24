@@ -6,7 +6,7 @@ body{
 }
 
 .d1{
-  background-image: url(../images/backgrounds/h_img.jpg);
+  background-image:url(../images/backgrounds/h_img.jpg);
   background-attachment: fixed;
   text-align: center;
   background-size: 1400px;
