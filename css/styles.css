@@ -35,7 +35,7 @@ body{
 }
 .jumbotron{
   color: white;
-      background-image: url(/home/gesare/Documents/StudioDelani/images/backgrounds/c_image.jpg);
+      background-image: url(../images/backgrounds/c_image.jpg);
 }
 .col-md-3{
   padding-bottom: 20px;
