@@ -6,7 +6,7 @@ body{
 }
 
 .d1{
-  background-image: url(/home/gesare/Documents/StudioDelani/assets/backgrounds/h_img.jpg);
+  background-image: url(../assets/backgrounds/h_img.jpg);
   background-attachment: fixed;
   text-align: center;
   background-size: 1400px;
@@ -20,7 +20,7 @@ body{
   text-align: center;
 }
 .ct{
-  background-image: url(/home/gesare/Documents/StudioDelani/assets/backgrounds/s_image.jpg);
+  background-image: url(../assets/backgrounds/s_image.jpg);
   text-align: center;
   color: white;
   padding-top: 100px;
@@ -115,4 +115,18 @@ input[type=text]{
   background-color: white;
   color: black;
   opacity:0.5;
+}
+.btn{
+  color:black;
+}
+.form-control {
+  background-color: transparent;
+}
+.form-control::placeholder {
+  color: white;
+  opacity: 1;
+}
+textarea{
+    color: #495057;
+
 }

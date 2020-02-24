@@ -11,13 +11,13 @@
 	<h2>Subscribe</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
+	<label for="mce-NAME">Name </label>
+	<input type="text" value="" name="NAME" class="" id="mce-NAME">
+</div>
+<div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-	<label for="mce-FNAME">First Name </label>
-	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
 	<label for="mce-MESSAGE">Message  <span class="asterisk">*</span>
@@ -28,10 +28,10 @@
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000p<form id="submit">x;" aria-hidden="true"><input type="text" name="b_8ea99ca2f3a65c00251bb91c4_b7b84006fe" tabindex="-1" value=""></div>
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8ea99ca2f3a65c00251bb91c4_b7b84006fe" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='MESSAGE';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='NAME';ftypes[1]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[2]='MESSAGE';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
