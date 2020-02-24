@@ -32,10 +32,15 @@ $(".pm,#pm").click(function(){
 $(".dev,#dev").click(function(){
   $("#dev,.dev").fadeToggle()
 });
-$("form.submit").click(function(){
-  var name=$(".name").val ()
+$("form#submit").submit(function(){
+  var fname=$(".fname").val ()
   var email=$(".email").val()
-  var message=$(".class").val()
-  alert("Hi"+name"your message has been recieved . Thank you")
+  var message=$(".message").val()
+   if((name==="")||(email==="")||(message==="")){
+     alert("Please, fill the required!")
+   }
+   else{
+     alert("HI" +name+ "we have recieved your message.")
+   }
 });
 });

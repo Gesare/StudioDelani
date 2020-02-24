@@ -72,39 +72,47 @@ input[type=text]{
   display: none;
   background-color: white;
   color: black;
+  opacity:0.5;
 }
 .yellow{
   display: none;
   background-color: white;
   color: black;
+  opacity: 0.5;
 }
 .Mig{
   display: none;
   background-color: white;
   color:black;
+  opacity: 0.5;
 }
 .BlackDark{
   display: none;
   background-color: white;
   color:black;
+  opacity: 0.5;
 }
 .Happy{
   display: none;
   background-color: white;
-  color: black
+  color: black;
+  opacity:0.5;
 }
 .Settings{
   display: none;
   background-color: white;
-  color: black
+  color: black;
+  opacity:0.5;
 }
 .Burned{
   display: none;
   background-color: white;
   color:black;
+  opacity:0.5;
 }
 .Giraffe{
   display: none;
   background-color: white;
   color: black;
+  opacity:0.5;
 }
