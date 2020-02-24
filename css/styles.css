@@ -6,7 +6,7 @@ body{
 }
 
 .d1{
-  background-image: url(../assets/backgrounds/h_img.jpg);
+  background-image: url(../images/backgrounds/h_img.jpg);
   background-attachment: fixed;
   text-align: center;
   background-size: 1400px;
@@ -20,7 +20,7 @@ body{
   text-align: center;
 }
 .ct{
-  background-image: url(../assets/backgrounds/s_image.jpg);
+  background-image: url(../images/backgrounds/s_image.jpg);
   text-align: center;
   color: white;
   padding-top: 100px;
@@ -35,7 +35,7 @@ body{
 }
 .jumbotron{
   color: white;
-      background-image: url(/home/gesare/Documents/StudioDelani/assets/backgrounds/c_image.jpg);
+      background-image: url(/home/gesare/Documents/StudioDelani/images/backgrounds/c_image.jpg);
 }
 .col-md-3{
   padding-bottom: 20px;
