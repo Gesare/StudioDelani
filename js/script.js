@@ -25,12 +25,15 @@ $(".H").hover(function(){
 });
 $(".design,#design").click(function(){
   $("#design,.design").fadeToggle()
+  $("#design,.design").css("text-align","center")
 });
 $(".pm,#pm").click(function(){
   $("#pm,.pm").fadeToggle()
+  $("#pm,.pm").fadeToggle().css("text-align","center")
 });
 $(".dev,#dev").click(function(){
   $("#dev,.dev").fadeToggle()
+  $("#dev,.dev").fadeToggle().css("text-align","center")
 });
 $("form").submit(function(){
   var name=$("#name").val ()
